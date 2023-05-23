@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextViewStyle">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColorHint">#ffffff</item>
+    </style>
+    
+    <style name="btnLoginStyle">
+        <item name="android:backgroundTint">#8b9dc3</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    
+    <style name="ImageViewStyle">
+        <item name="android:layout_marginTop">150dp</item>
+    </style>
+</resources>
